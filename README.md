@@ -1,4 +1,4 @@
-DeadOn RTC- DS32234 Breakout Board
+DeadOn RTC- DS3234 Breakout Board
 ==========
 
 [![DeadOn RTC](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/0/10160b-01_i_ma.jpg)  
