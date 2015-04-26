@@ -15,7 +15,8 @@ Repository Contents
 Version History
 ---------------
 
-* [V_1.0.0](https://github.com/sparkfun/DeadOn_RTC/tree/V_1.0.0) - Updated to new library structure 
+* [V_1.2.0](https://github.com/sparkfun/DeadOn_RTC/tree/V_1.0.0) - Updated to new library structure 
+* [V_1.1](https://github.com/sparkfun/DeadOn_RTC/tree/v1.1) - Original structure
 
 License Information
 -------------------
