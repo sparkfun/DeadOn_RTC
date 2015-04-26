@@ -1,9 +1,9 @@
 DeadOn RTC- DS3234 Breakout Board
 ==========
 
-[![DeadOn RTC](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/0/10160b-01_i_ma.jpg) 
+![DeadOn RTC](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/0/10160b-01_i_ma.jpg) 
 
-*DeadOn RTC- DS3234 Breakout (BOB-10160)*](https://www.sparkfun.com/products/10160)
+[*DeadOn RTC- DS3234 Breakout (BOB-10160)*](https://www.sparkfun.com/products/10160)
 
 This is a real time clock based on the DS3234 Real Time Clock IC. The DS3234  is a low-cost, extremely accurate SPI bus real-time clock with an integrated temperature-compensated crystal oscillator and crystal.
 
