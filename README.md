@@ -1,4 +1,4 @@
-DeadOn RTC- DS3234 Breakout Board
+DeadOn RTC-DS3234 Breakout Board
 ==========
 
 ![DeadOn RTC](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/0/10160b-01_i_ma.jpg) 
@@ -11,6 +11,11 @@ Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Libraries** - All Arduino libraries and board examples
+
+Version History
+---------------
+
+* [V_1.0.0](https://github.com/sparkfun/DeadOn_RTC/tree/V_1.0.0) - Updated to new library structure 
 
 License Information
 -------------------
