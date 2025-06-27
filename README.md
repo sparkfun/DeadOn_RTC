@@ -1,7 +1,7 @@
 DeadOn RTC-DS3234 Breakout Board
 ==========
 
-![DeadOn RTC](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/0/10160b-01_i_ma.jpg) 
+![DeadOn RTC](https://cdn.sparkfun.com/assets/parts/4/4/5/5/10160-SparkFun_DeadOn_RTC_Breakout_-_DS3234-01.jpg) 
 
 [*DeadOn RTC- DS3234 Breakout (BOB-10160)*](https://www.sparkfun.com/products/10160)
 
